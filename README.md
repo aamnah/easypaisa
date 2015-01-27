@@ -5,7 +5,7 @@ Easypaisa
 
 Easypaisa is a branchless banking service introduced by Telenor Pakistan in partnership with Tameer Micro Finance Bank. Opencart is "a robust e-commerce solution for internet merchants with the ability to create their own online business and participate in e-commerce at a minimal cost".
 
-This is a payment module that let's you offer Easypaisa as a payment option at checkout.
+This is a payment module that let's you offer Easypaisa as a payment option at checkout of an Opencart based store.
 
 Installation
 ---
