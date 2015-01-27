@@ -9,4 +9,7 @@ This is a payment module that let's you offer Easypaisa as a payment option at c
 
 Installation
 ---
-Upload the easypaisa files to your site's root directory. No core files are overwritten.
+
+- Upload the easypaisa files to your site's root directory.
+- No core files are overwritten.
+- Works with v1.5.6.x
