@@ -13,3 +13,11 @@ Installation
 - Upload the easypaisa files to your site's root directory.
 - No core files are overwritten.
 - Tested to work with v1.5.6.x and v2.1.0.1
+
+Screenshots
+---
+![Payment Modules List](https://github.com/aamnah/easypaisa/blob/master/screenshots/payment-modules-list.png)
+
+![Easypaisa Module Settings](https://github.com/aamnah/easypaisa/blob/master/screenshots/easypaisa-module.png)
+
+![Easypaisa at Checkout](https://github.com/aamnah/easypaisa/blob/master/screenshots/easypaisa-checkout.png)
