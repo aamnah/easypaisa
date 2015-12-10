@@ -12,4 +12,4 @@ Installation
 
 - Upload the easypaisa files to your site's root directory.
 - No core files are overwritten.
-- Works with v1.5.6.x
+- Tested to work with v1.5.6.x and v2.1.0.1
