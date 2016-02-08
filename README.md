@@ -10,9 +10,12 @@ This is a payment module that let's you offer Easypaisa as a payment option at c
 Installation
 ---
 
-- Upload the easypaisa files to your site's root directory.
+- Download the zip file from [here][releases]
+- Upload the `.ocmod.zip` file via _Extensions > Extension Installer_
+- Under _Extension > Modifications_ click the refresh button to rebuild your modification cache!
+
 - No core files are overwritten.
-- Tested to work with v1.5.6.x and v2.1.0.1
+- Tested to work with v2.1.0.1, v2.1.0.2
 
 Screenshots
 ---
@@ -22,3 +25,4 @@ Screenshots
 
 ![Easypaisa at Checkout](https://github.com/aamnah/easypaisa/blob/master/screenshots/easypaisa-checkout.png)
 
+[releases]: https://github.com/aamnah/easypaisa/releases
