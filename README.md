@@ -13,7 +13,6 @@ Installation
 - Download the zip file from [here][releases]
 - Upload the `.ocmod.zip` file via _Extensions > Extension Installer_
 - Under _Extension > Modifications_ click the refresh button to rebuild your modification cache!
-
 - No core files are overwritten.
 - Tested to work with v2.1.0.1, v2.1.0.2
 
