@@ -14,7 +14,7 @@ Installation
 - Upload the zip file via _Extensions > Extension Installer_
 - Under _Extension > Modifications_ click the refresh button to rebuild your modification cache!
 - No core files are overwritten.
-- Tested to work with v2.1.0.1, v2.1.0.2
+- Tested to work with v2.1.0.1, v2.1.0.2, v2.3.0.2
 
 For Easypaisa extension for OpenCart v1.5.6x, [click here][1.5.6x].
 
