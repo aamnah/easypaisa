@@ -10,7 +10,7 @@ This is a payment module that let's you offer Easypaisa as a payment option at c
 Installation
 ---
 
-- Download the `.ocmod.zip` file from [here][releases]
+- Download the relevant `.ocmod.zip` file from [here][releases]
 - Upload the zip file via _Extensions > Extension Installer_
 - Under _Extension > Modifications_ click the refresh button to rebuild your modification cache!
 - No core files are overwritten.
